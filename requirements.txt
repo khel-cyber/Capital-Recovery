@@ -4,10 +4,10 @@ pandas
 datetime
 timedelta
 Path
-matplotlib
 BytesIO
 smtplib
 EmailMessage
 base64
+
 
 
