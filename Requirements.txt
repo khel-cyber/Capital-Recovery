@@ -1,3 +1,4 @@
+matplotlib
 streamlit
 pandas
 datetime
@@ -8,4 +9,5 @@ BytesIO
 smtplib
 EmailMessage
 base64
+
 
