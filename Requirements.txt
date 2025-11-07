@@ -1,0 +1,10 @@
+streamlit
+pandas
+datetime
+timedelta
+Path
+matplotlib.pyplot
+BytesIO
+smtplib
+EmailMessage
+base64
