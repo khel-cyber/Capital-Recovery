@@ -3,8 +3,9 @@ pandas
 datetime
 timedelta
 Path
-matplotlib.pyplot
+matplotlib
 BytesIO
 smtplib
 EmailMessage
 base64
+
